@@ -90,6 +90,6 @@ body{
   background: red;
 }
 
-.toast.ivalid::after{
+.toast.invalid::after{
   background: orange;
 }
